@@ -1,0 +1,6 @@
+C:\Users\JSV\source\repos\PagadiarioNet\Entity\bin\Debug\Entity.dll
+C:\Users\JSV\source\repos\PagadiarioNet\Entity\bin\Debug\Entity.pdb
+C:\Users\JSV\source\repos\PagadiarioNet\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\JSV\source\repos\PagadiarioNet\Entity\obj\Debug\Entity.dll
+C:\Users\JSV\source\repos\PagadiarioNet\Entity\obj\Debug\Entity.pdb
+C:\Users\jsv\source\repos\PagadiarioNet\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

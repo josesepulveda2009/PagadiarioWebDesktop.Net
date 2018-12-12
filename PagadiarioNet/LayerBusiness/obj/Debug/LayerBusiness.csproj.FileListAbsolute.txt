@@ -1,0 +1,12 @@
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\LayerBusiness.dll.config
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\LayerBusiness.dll
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\LayerBusiness.pdb
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\Entity.dll
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\LayerData.dll
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\Entity.pdb
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\bin\Debug\LayerData.pdb
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\obj\Debug\LayerBusiness.csprojAssemblyReference.cache
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\obj\Debug\LayerBusiness.csproj.CoreCompileInputs.cache
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\obj\Debug\LayerBusiness.csproj.CopyComplete
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\obj\Debug\LayerBusiness.dll
+C:\Users\JSV\source\repos\PagadiarioNet\LayerBusiness\obj\Debug\LayerBusiness.pdb
